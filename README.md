@@ -1,0 +1,4 @@
+Important notes on data and code used in this project:
+The data sources for this project include Ecke et al., 2022 (synanthropy categorization); Heldstab, 2021 (life history variables); and Shultz & Dunbar, 2010 (relative brain size). Brain and body data are from separate data sets than the rest of the data, and thus should be analyzed together only. Brain and body data from Shultz & Dunbar (2010) was not used in the submitted version of this project. 
+The generative artificial intelligence (GenAI) tool Microsoft Copilot was used to develop and correct code in this study; any code was reviewed for accuracy and correctness, as well as tested following its generation.
+This code was initially written for Penn State University's ANTH 571 course, Spring 2026 by Kelly Elizabeth Schenk - questions on code can be directed to kes6724@psu.edu. Please e-mail this address to report any issues with the code - I am still learning! Code is subject to change.
